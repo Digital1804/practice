@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\yarob\source\repos\TP12\TP12\MyForm.h(280,22): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TP12.vcxproj -> C:\Users\yarob\source\repos\TP12\Debug\TP12.exe
