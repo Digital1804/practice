@@ -1,0 +1,3 @@
+C:\Users\yarob\source\repos\TP12\TP12\Debug\TP12.vcxprojAssemblyReference.cache
+C:\Users\yarob\source\repos\TP12\TP12\Debug\TP12.MyForm.resources
+C:\Users\yarob\source\repos\TP12\TP12\Debug\TP12.vcxproj.GenerateResource.cache
